@@ -80,4 +80,4 @@ if __name__ == "__main__":
 
 AI Stdio链接：https://aistudio.baidu.com/aistudio/projectdetail/753581
 
-GitHub链接：https://github.com/p-charon/Speak-check
+CSDN链接：https://blog.csdn.net/qq_38536313/article/details/108200653
