@@ -1,5 +1,3 @@
-﻿@[TOC](PaddleHub创意大赛之违规发言检测)
-
 # 违规发言检测：
 
 这是使用PaddleHub完成的一个违规发言检测的项目，由于小老弟初学水平有限所以该项目还有很大的改进空间，以后可以慢慢改慢慢做
@@ -79,5 +77,7 @@ if __name__ == "__main__":
 两种方式的运行效果如图所示，在验证多种语句之后发现该模型都能达到较为好的效果，之后还可以更进一步的将过程给可视化的显示出来。
 ![命令行运行](https://img-blog.csdnimg.cn/20200824163604195.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NTM2MzEz,size_16,color_FFFFFF,t_70#pic_center)
 ![API方式运行](https://img-blog.csdnimg.cn/20200824164120117.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NTM2MzEz,size_16,color_FFFFFF,t_70#pic_center)
+
 AI Stdio链接：https://aistudio.baidu.com/aistudio/projectdetail/753581
+
 GitHub链接：https://github.com/p-charon/Speak-check
